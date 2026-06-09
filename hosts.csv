@@ -1,0 +1,7 @@
+hostname,domain,ipv4,port,location
+www,happy.lab,172.16.30.101,443,wt306
+dns,happy.lab,172.16.30.102,53,wt306
+imap,peachy.lab,172.16.30.103,143,wt308
+mail,peachy.lab,172.16.30.103,25,wt308
+ldap,happy.lab,172.16.30.104,389,wt308
+ssh,happy.lab,172.16.30.104,22,wt308
