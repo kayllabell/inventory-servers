@@ -17,6 +17,7 @@
 
 A command-line Python application for managing server inventory data, built for CST8324 at Algonquin College. Reads server records from a CSV file, lets you interact with them through a menu-driven interface, and writes the updated data to a JSON file on exit.
 
+![demo](demo.png)
 ---
 
 ## Features
